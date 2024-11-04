@@ -1,6 +1,6 @@
 # Excel VBA Multi-Plot Chart Generator
 
-This Excel VBA script, `MuiliPlot`, automates the creation of multiple smooth XY scatter charts from data stored in the **DataSheet** worksheet. The script dynamically processes data and generates charts based on the specified configurations, with the ability to customize chart titles and axis labels.
+This Excel VBA script, `MuiliPlot`, automates the creation of multiple smooth XY scatter charts from data stored in the **DataSheet** worksheet. The code was used to generate graphs of cross-sections of a river within MS Excel.The script dynamically processes data and generates charts based on the specified configurations, with the ability to customize chart titles and axis labels.
 
 **A Screenshot of the Interface**:
 ![002101](https://github.com/user-attachments/assets/ce2aec80-cc88-4c2b-b645-0d85f7b1ad14) <!-- Replace with the actual path to your image in the repository -->
